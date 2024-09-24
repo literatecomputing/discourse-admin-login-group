@@ -2,3 +2,7 @@ discourse_admin_login_group:
   discourse_admin_login_group_enabled:
     default: false
     client: true
+  discourse_admin_login_group_groups:
+    default: []
+    client: false
+    type: group_list
