@@ -1,4 +1,4 @@
-# **Plugin Name** Plugin
+# **Discourse Admin Login Group** Plugin
 
 **Plugin Summary**
 
