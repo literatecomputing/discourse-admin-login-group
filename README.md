@@ -14,4 +14,9 @@ decided on another solution.
 
 Written as an exercise, mostly, in how to override functions in a controller. 
 
+Oh. And this isn't the way to do it. Damn you, AI.
 
+```
+plugin.rb:25:3: C: Discourse/Plugins/NoMonkeyPatching: Don’t call class_eval. Instead, create
+ a mixin and use prepend.
+```
